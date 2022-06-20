@@ -1,4 +1,4 @@
-# The The Ganesh Grocery Shopping Application
+# The Ganesh Grocery Shopping Application
 
 
 ### Deployment
