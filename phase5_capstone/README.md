@@ -1,4 +1,4 @@
-# The Aces Grocery Shopping Application
+# The The Ganesh Grocery Shopping Application
 
 
 ### Deployment
